@@ -1,1 +1,0 @@
-# git_gist_regex_tutorial_ON
